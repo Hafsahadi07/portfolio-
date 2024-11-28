@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Header from "./components/header";
 import Main from "./components/Main";
 import Projects from "./components/projects";
